@@ -133,6 +133,26 @@
 #profile-post-cards p{
     font-size: 12px;
 }
+#suggest-card{
+    float: right;
+    border: 0;
+    background: linear-gradient(71deg, #fffcfc, #faf9f9, #fffcfc);
+}
+#suggest-card h5{
+    font-size: 15px;
+}
+#suggest-card h6{
+    font-size: 13px;
+}
+#suggest-card p{
+    font-size: 12px;
+}
+#fixedElement{
+    justify-content: center;
+    position: sticky;
+    top: 20px;
+}
+
 
 
 #view-all{

@@ -62,6 +62,7 @@ hr {
 }
 
 #suggest-card{
+    float: right;
     border: 0;
     background: linear-gradient(71deg, #fffcfc, #faf9f9, #fffcfc);
 }
